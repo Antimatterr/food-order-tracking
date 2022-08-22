@@ -1,2 +1,7 @@
 create server - server.js
 creating home page 
+install laravel mix
+ -npx mix
+ -npx mix watch
+ -config webpack.mix.js
+install tailwind css
