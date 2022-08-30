@@ -1,0 +1,45 @@
+{
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-08-30T10:20:29.824Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "cart": {
+    "items": {
+      "5eee651f739f8c674fd736ee": {
+        "item": {
+          "_id": "5eee651f739f8c674fd736ee",
+          "name": "Margherita",
+          "image": "pizza.png",
+          "price": 250,
+          "size": "small"
+        },
+        "qty": 2
+      },
+      "5eee6671a27a66807cf2bea3": {
+        "item": {
+          "_id": "5eee6671a27a66807cf2bea3",
+          "name": "Marinara",
+          "image": "pizza.png",
+          "price": 300,
+          "size": "medium"
+        },
+        "qty": 1
+      },
+      "5eee6692a27a66807cf2bea4": {
+        "item": {
+          "_id": "5eee6692a27a66807cf2bea4",
+          "name": "Carbonara",
+          "image": "pizza.png",
+          "price": 200,
+          "size": "small"
+        },
+        "qty": 1
+      }
+    },
+    "totalQty": 4,
+    "totalPrice": 1000
+  }
+}
